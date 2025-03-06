@@ -1,0 +1,4 @@
+backend/**/*
+frontend-app/**/*
+frontend/**/*
+test-access-go-api/**/*

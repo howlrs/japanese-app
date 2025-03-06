@@ -1,0 +1,10 @@
+/target
+
+*/旧/
+**/resource/
+**/temp/
+
+/prompts/n2/**
+/prompts/n3/**
+
+/prompts/create-**
