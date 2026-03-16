@@ -2,3 +2,7 @@ backend/**/*
 frontend-app/**/*
 frontend/**/*
 test-access-go-api/**/*
+
+# Secrets
+.env
+scripts/.env
